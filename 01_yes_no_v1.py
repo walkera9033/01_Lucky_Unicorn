@@ -22,3 +22,4 @@ while show_instructions.lower() !="xxx":
 	print("You chose {}".format(show_instructions))
 
 
+print("this is the right file")
