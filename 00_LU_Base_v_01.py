@@ -21,8 +21,7 @@ def yes_no(question):
 def instructions():
 	print ("**** How to Play ****") 
 	print()
-	print ("The rules of the game go here")
-	print () 
+	print("The aim of this game is to win a unicron. You will need to enter money in a minium of $1 and a maxiumum of $10. Click <enter> repearedly until you win a unicorn or run out of money. If you lose and dont win a unicorn feel free to play again or click xxx to quit")
 	return "" 
 
 
